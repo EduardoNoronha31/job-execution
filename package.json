@@ -1,0 +1,20 @@
+{
+  "name": "job-execution",
+  "version": "1.0.0",
+  "description": "Solution with unit test for sorting an array of jobs for execution.",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node-dev --inspect --transpile-only --ignore node_modules src/index.ts",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "Eduardo Noronha Rosa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "jest": "^29.6.2",
+    "ts-jest": "^29.1.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.1.6"
+  }
+}
