@@ -3,9 +3,6 @@
 
  <table>
    <thead><th>Technologies Used:</th></thead>
-
-   <br>
-
    <tbody>
      <tr>
        <td>Typescript</td>
